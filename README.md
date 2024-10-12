@@ -129,7 +129,7 @@
         <div class="inline-details">
             <div class="place">𝗣𝗜𝗔𝗖𝗘 : 🇮🇳 ɪɴᴅɪᴀ ᴋᴇʀᴀʟᴀ</div>
             <div>𝗔𝗚𝗘 → 22</div>
-            <div class="best-friend"><a href="https://t.me/OM_X_TG">𝗕𝗘𝗦𝗧 𝗙𝗥𝗜𝗘𝗡𝗗 →ᴄʀ 🗿</a></div>
+            <div class="best-friend"><a href="https://t.me/Vishnuko">𝗧𝗚 𝗜𝗗 →ᴄʀ 🗿</a></div>
         </div>
 
         <div class="section admins">
