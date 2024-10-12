@@ -120,7 +120,7 @@
     </video>
 
     <div class="container">
-        <div class="title">𝗢𝗠 𝗖𝗥 𝗕𝗜𝗢</div>
+        <div class="title">𝗢𝗠 𝗟𝗶𝗻𝗸𝘀</div>
 
         <img src="https://cdn.glitch.global/f8d8a93c-ce5f-4f9f-903f-099934d7bcf6/IMG_20241012_201108_520.jpg?v=1728746105192" alt="Profile Picture">
         
